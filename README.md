@@ -748,15 +748,5 @@ func main() {
 
 **نکته:** این پرامپت را در ابتدای مکالمه با AI استفاده کنید یا در تنظیمات Custom Instructions ذخیره کنید.
 
----
 
-## 🔗 منابع بیشتر
 
-- [Go Style Guide](https://go.dev/doc/effective_go)
-- [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments)
-
----
-
-**نسخه:** 1.0  
-**زبان:** Golang  
-**به‌روزرسانی:** 2024
